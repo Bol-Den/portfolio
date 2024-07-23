@@ -1,2 +1,4 @@
 db_config/mysql_creds.py
 test_data/
+__pycache__/
+.gitignore
