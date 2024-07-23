@@ -1,1 +1,2 @@
-cash_balance/test.py
+db_config/mysql_creds.py
+test_data/
